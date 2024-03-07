@@ -9,8 +9,12 @@ O objetivo é centralizar os dados das EJ's num lugar de fácil acesso para todo
 5. Dados da Rede
 
 ## ToDo's
-[] Adicionar pessoas na EJ
-[] Enviar contratos
-[] Estipular metas
-[] Área de LogIn
-[] Dados da Rede
+[ ] Adicionar pessoas na EJ
+
+[ ] Enviar contratos
+
+[ ] Estipular metas
+
+[ ] Área de LogIn
+
+[ ] Dados da Rede
