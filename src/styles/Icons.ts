@@ -1,5 +1,6 @@
 export {
-	Home,
+	User,
+  Home,
   NetworkChart,
   Rocket,
   BriefcaseAlt,

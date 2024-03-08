@@ -5,6 +5,7 @@ import { Container } from "./styles";
 
 import Header from "../../components/header";
 import SidebarMenu from "../../components/SidebarMenu";
+import BottomMenu from "../../components/BottomMenu";
 
 const Home: React.FC = () => {
 	return (
@@ -14,6 +15,7 @@ const Home: React.FC = () => {
         </Helmet>
         <Header />
         <SidebarMenu />
+        <BottomMenu />
     </Container>
 	);
 };
