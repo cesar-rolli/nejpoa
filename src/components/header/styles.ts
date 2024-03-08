@@ -1,11 +1,17 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
+	background: var(--azul1);
 	position: absolute;
-	background: var(--branco2);
 
 	display: flex;
 	justify-content: center;
-	width: 100vw;
-	height: 100vh;
+	z-index: 3;
+
+  width: 100vw;
+`;
+
+export const NEJLogo = styled.img`
+	display: flex;
+	height: 64px;
 `;

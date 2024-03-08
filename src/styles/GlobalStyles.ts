@@ -36,17 +36,12 @@ export const GlobalStyles = createGlobalStyle`
     background: var(--primary);
   }
   :root {
-    --primary: #0f0;
-    --secondary: #353535;
-    --white: #d9d9d9;
-    --white-text: #fff;
-    --sinc-beige: #e7b6a0;
-    --sinc-light-color: #EF4136;
-    --sinc-dark-color: #8B0924;
-    --sinc-menu-bar-hover: #170901;
-    --sinc-button-hover: #be1e2d;
-    --sinc-button-dark-hover: #16181c;
-    --check: #26b81c;
-    --select-dropdown: #d1f7fc;
+    --azul1: #3f7f93;
+    --azul2: #74aac1;
+    --azul3: #768a95;
+    --azul4: #adbcbf;
+    --branco1: #fff;
+    --branco2: #f6f8fa;
+    --preto: #121212;
   }
 `;
